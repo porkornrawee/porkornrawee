@@ -10,15 +10,6 @@
 
 ---
 
-### 🚀 About Me
-
-- 🏙️ กำลังพัฒนา **UCR Smart City** — แพลตฟอร์มเก็บข้อมูลเมืองอัจฉริยะ (urban heat mapping, community survey, spatial analysis)
-- 🤖 สนใจ **AI / NLP** โดยเฉพาะ Thai NLP, RAG และ Information Retrieval (SuperAI)
-- 🧩 ทำงานครบตั้งแต่ **backend → frontend → cloud deployment**
-- 🌱 กำลังเรียนรู้: System design, MLOps, และ scalable cloud architecture
-
----
-
 ### 🛠️ Tech Stack
 
 **Languages**
@@ -63,15 +54,6 @@
 </p>
 
 ---
-
-### 🏗️ Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🏙️ **UCR Smart City** | แพลตฟอร์มเก็บข้อมูลเมือง — chatbot survey, urban heat mapping, spatial KMZ export | FastAPI · Angular · MongoDB · PostGIS · AWS Lambda · LINE API |
-| 🤖 **RAG for SuperAI** | Retrieval-Augmented Generation & Information Retrieval experiments | Python · Jupyter · NLP |
-| 🇹🇭 **Thai NLP** | สำรวจ Thai Natural Language Processing libraries & resources | Python · Jupyter |
-| 🖼️ **Image Tools** | HEIC-to-JPG converter, CropPicture utilities | Python |
 
 ---
 
