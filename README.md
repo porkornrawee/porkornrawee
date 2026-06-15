@@ -55,6 +55,8 @@
 #### 🔬 AI, Agents & Data
 
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
+![LLM](https://img.shields.io/badge/Large_Language_Models-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6C3FC5?style=for-the-badge&logo=llama&logoColor=white)
