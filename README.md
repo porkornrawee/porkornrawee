@@ -1,4 +1,4 @@
-<h1 align="center">สวัสดีครับ 👋 I'm Porkornrawee</h1>
+
 
 <p align="center">
   <em>Computer Science @ Thammasat University 🇹🇭 — Full-Stack Developer & AI Enthusiast</em>
