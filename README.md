@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <em>Computer Science @ Thammasat University 🇹🇭 — Full-Stack Developer & AI Enthusiast</em>
+  <em>Computer Science Year1 @ Thammasat University 🇹🇭 — Full-Stack Developer & AI Enthusiast</em>
 </p>
 
 <p align="center">
