@@ -95,6 +95,8 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=porkornrawee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=porkornrawee&layout=compact&theme=tokyonight&langs_count=8" alt="top langs" />
+</p>
 
 
 <p align="center">
