@@ -9,16 +9,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [ucr-smartcity_chatbot](https://github.com/porkornrawee/ucr-smartcity_chatbot) | Smart City AI Chatbot with RAG | Python · FastAPI · LangChain |
-| [RAG-for-SuperAI](https://github.com/porkornrawee/RAG-for-SuperAI) | RAG system built for SuperAI | Python · ChromaDB · Gemini |
-| [nlp_thai_resources](https://github.com/porkornrawee/nlp_thai_resources) | 50+ Thai NLP libraries collection | Research · NLP |
-| [G12_OurFestival](https://github.com/porkornrawee/G12_OurFestival) | Festival platform · 2 ⭐ | HTML · CSS · JS |
-
----
 
 ### 💻 Tech Stack
 
