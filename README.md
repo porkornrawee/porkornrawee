@@ -99,10 +99,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=porkornrawee&theme=tokyonight" alt="streak" />
-</p>
-
 ---
 
 ### 📫 Connect
