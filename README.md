@@ -4,8 +4,6 @@
 
 <p align="center">
   <a href="https://github.com/porkornrawee"><img src="https://komarev.com/ghpvc/?username=porkornrawee&label=Profile%20views&color=6C63FF&style=flat" alt="profile views" /></a>
-  <img src="https://img.shields.io/github/followers/porkornrawee?label=Followers&style=flat&color=6C63FF" alt="followers" />
-</p>
 
 ---
 
