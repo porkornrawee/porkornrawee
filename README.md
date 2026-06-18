@@ -1,12 +1,22 @@
-
-
 <p align="center">
-  <em>Computer Science Year1 @ Thammasat University 🇹🇭 — Full-Stack Developer & AI Enthusiast</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Porkornrawee+%F0%9F%91%8B;Full-Stack+Developer+%26+AI+Builder;CS+%40+Thammasat+University+%F0%9F%87%B9%F0%9F%87%AD" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/porkornrawee"><img src="https://komarev.com/ghpvc/?username=porkornrawee&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></a>
+  <a href="https://github.com/porkornrawee"><img src="https://komarev.com/ghpvc/?username=porkornrawee&label=Profile%20views&color=6C63FF&style=flat" alt="profile views" /></a>
+  <img src="https://img.shields.io/github/followers/porkornrawee?label=Followers&style=flat&color=6C63FF" alt="followers" />
 </p>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [ucr-smartcity_chatbot](https://github.com/porkornrawee/ucr-smartcity_chatbot) | Smart City AI Chatbot with RAG | Python · FastAPI · LangChain |
+| [RAG-for-SuperAI](https://github.com/porkornrawee/RAG-for-SuperAI) | RAG system built for SuperAI | Python · ChromaDB · Gemini |
+| [nlp_thai_resources](https://github.com/porkornrawee/nlp_thai_resources) | 50+ Thai NLP libraries collection | Research · NLP |
+| [G12_OurFestival](https://github.com/porkornrawee/G12_OurFestival) | Festival platform · 2 ⭐ | HTML · CSS · JS |
 
 ---
 
@@ -86,21 +96,22 @@
 ![Fork Git Client](https://img.shields.io/badge/Fork_Git_Client-1C1C1C?style=for-the-badge&logo=git&logoColor=white)
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white)
 
-#### 🖥️ Operating Systems & Virtualization
+#### 🖥️ OS & Virtualization
 
-![UTM](https://img.shields.io/badge/UTM-2088FF?style=for-the-badge&logo=qemu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![UTM](https://img.shields.io/badge/UTM-2088FF?style=for-the-badge&logo=qemu&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=porkornrawee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=porkornrawee&layout=compact&theme=tokyonight&langs_count=8" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=porkornrawee&theme=tokyonight" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=porkornrawee&theme=tokyonight" alt="streak" />
 </p>
 
 ---
