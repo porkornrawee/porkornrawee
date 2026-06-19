@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/porkornrawee"><img src="https://komarev.com/ghpvc/?username=porkornrawee&label=Profile%20views&color=6C63FF&style=flat" alt="profile views" /></a>
+ 
 </p>
 
 ---
