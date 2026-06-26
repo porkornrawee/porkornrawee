@@ -7,11 +7,10 @@
 </p>
 
 <p align="center">
- 
+  <a href="https://github.com/porkornrawee"><img src="https://komarev.com/ghpvc/?username=porkornrawee&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></a>
 </p>
 
 ---
-
 
 ### 💻 Tech Stack
 
@@ -43,6 +42,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=porkornrawee&layout=compact&theme=tokyonight&langs_count=8" alt="top langs" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=porkornrawee&theme=tokyonight" alt="streak" />
+</p>
 
 ---
 
