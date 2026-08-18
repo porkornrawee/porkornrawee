@@ -12,6 +12,14 @@
 
 ---
 
+### 🚀 Currently Building
+
+- **[BubusuperPOS](https://github.com/porkornrawee?tab=repositories&q=BubusuperPOS)** — POS system with backend, frontend, chatbot, and infra
+- **[loyverse-clone](https://github.com/porkornrawee/loyverse-clone)** — POS clone built for hands-on learning
+- **[CSTU41 FirstMeet Website](https://github.com/porkornrawee/CSTU41-FirstMeet_Website_Frontend)** — event site for CS Thammasat freshmen
+
+---
+
 ### 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
