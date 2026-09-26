@@ -14,10 +14,9 @@
 
 ### 🚀 Currently Building
 
-- **[BubusuperPOS](https://github.com/porkornrawee?tab=repositories&q=BubusuperPOS)** — POS system with backend, frontend, chatbot, and infra
-- **[loyverse-clone](https://github.com/porkornrawee/loyverse-clone)** — POS clone built for hands-on learning
-- **[CSTU41 FirstMeet Website](https://github.com/porkornrawee/CSTU41-FirstMeet_Website_Frontend)** — event site for CS Thammasat freshmen
-
+- **[BubusuperPOS (Turbo POS)](https://github.com/orgs/3DevPro/repositories)** — multi-tenant POS suite (backend, Flutter frontend, AI chatbot, infra) built for the TURBO Business Case Competition 2026 — [live demo](https://porkornrawee.site)
+- **[GoWAT](https://github.com/porkornrawee/Gowat_Website)** — interactive story engine — [live site](https://gowat-website.vercel.app)
+- **[CS261 Smart Parking System](https://github.com/porkornrawee/CS261-Group7-650001)** — smart parking reservation system, CS261 Software Engineering group project
 ---
 
 ### 💻 Tech Stack
