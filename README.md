@@ -15,8 +15,16 @@
 ### 🚀 Currently Building
 
 - **[BubusuperPOS (Turbo POS)](https://github.com/orgs/3DevPro/repositories)** — multi-tenant POS suite (backend, Flutter frontend, AI chatbot, infra) built for the TURBO Business Case Competition 2026 — [live demo](https://porkornrawee.site)
-- **[GoWAT](https://github.com/porkornrawee/Gowat_Website)** — interactive story engine — [live site](https://gowat-website.vercel.app)
-- **[CS261 Smart Parking System](https://github.com/porkornrawee/CS261-Group7-650001)** — smart parking reservation system, CS261 Software Engineering group project
+- **[CSTU41 FirstMeet — Buddy Safari](https://github.com/porkornrawee/CSTU41-FirstMeet_Website_Frontend)** — safari-themed buddy-matching site for CS Thammasat freshmen (React + Tailwind)
+- **[FinRisk](https://github.com/Chain361/FinRisk-Backend)** — local-budget fraud/corruption risk & document-intelligence platform for Thai local government (FastAPI risk engine + OCR, Angular [dashboard](https://github.com/Chain361/FinRisk-Frontend))
+- **[Songkaitod](https://github.com/porkornrawee/Songkaitod)** — 🍗 multi-role, QR-based food ordering & delivery platform (MERN + Socket.io)
+---
+### 🎓 Experience & Research
+
+- **Undergraduate Student Researcher — TONKIT Lab** (June 2026 – Present) — working as a fullstack developer, building the lab's web systems end-to-end (frontend + backend)
+- **TA, NVIDIA x Thammasat University**
+- **TA, Amazon Q / AWS (with DAKOK)**
+
 ---
 
 ### 💻 Tech Stack
