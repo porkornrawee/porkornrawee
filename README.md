@@ -17,7 +17,7 @@
 - **[BubusuperPOS (Turbo POS)](https://github.com/orgs/3DevPro/repositories)** — multi-tenant POS suite (backend, Flutter frontend, AI chatbot, infra) built for the TURBO Business Case Competition 2026 
 - **[CSTU41 FirstMeet — Buddy Safari](https://github.com/porkornrawee/CSTU41-FirstMeet_Website_Frontend)** — safari-themed buddy-matching site for CS Thammasat freshmen 
 - **[FinRisk](https://github.com/Chain361/FinRisk-Backend)** — local-budget fraud/corruption risk & document-intelligence platform for Thai local government (FastAPI risk engine + OCR, Angular
-- **[Songkaitod](https://github.com/porkornrawee/Songkaitod)** — 🍗 multi-role, QR-based food ordering & delivery platform (MERN + Socket.io)
+- **[Songkaitod](https://github.com/porkornrawee/Songkaitod)** —  multi-role, QR-based food ordering & delivery platform (MERN + Socket.io)
 ---
 ### 🎓 Experience & Research
 
