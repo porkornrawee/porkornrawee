@@ -21,7 +21,7 @@
 ---
 ### 🎓 Experience & Research
 
-- **Undergraduate Student Researcher — TONKIT Lab** (June 2026 – Present) — working as a fullstack developer, building the lab's web systems end-to-end (frontend + backend)
+- **Undergraduate Student Researcher — TONKIT Lab** (June 2026 – Present) — working as a fullstack developer, building the lab's web systems 
 - **Teaching Assistant — NVIDIA Event, Thammasat University**
 - **Teaching Assistant — Amazon Quick AWS Event (with DAKOK)**
 
