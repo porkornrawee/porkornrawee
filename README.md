@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  CS student building AI tools, finance dashboards, and backend systems.
+  CS student building AI tools, finance dashboards, and backend systems — and a firm believer that the most useful AI is the kind that runs close to the user: private, fast, and efficient on local hardware.
 </p>
 
 <p align="center">
@@ -19,6 +19,15 @@
 - **[FinRisk](https://github.com/Chain361/FinRisk-Backend)** — local-budget fraud/corruption risk & document-intelligence platform for Thai local government (FastAPI risk engine + OCR, Angular
 - **[Songkaitod](https://github.com/porkornrawee/Songkaitod)** —  multi-role, QR-based food ordering & delivery platform (MERN + Socket.io)
 ---
+### 🧠 AI Interests
+
+- **Fine-tuning local LLMs** — adapting open-weight models to specific domains and languages (including Thai) with parameter-efficient methods such as LoRA / QLoRA
+- **Optimizing local AI** — quantization (GGUF, 4-bit), inference speed, and memory footprint, so capable models run smoothly on consumer hardware
+- **Private, on-device AI** — local RAG and chatbots that keep sensitive data off third-party servers
+- **Evaluating what works** — measuring the trade-offs between model size, quality, latency, and cost before shipping
+
+---
+
 ### 🎓 Experience & Research
 
 - **Undergraduate Student Researcher — TONKIT Lab** (June 2026 – Present) 
